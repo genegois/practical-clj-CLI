@@ -35,6 +35,7 @@ CREATE TABLE tokens (
    npm install react react-dom
    npx shadow-cljs watch app
    ```
+   yowes, abis itu lo ke browser terus ke link localhost:3000
   
 
 
